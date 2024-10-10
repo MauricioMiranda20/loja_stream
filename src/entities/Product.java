@@ -23,7 +23,7 @@ public class Product {
 	
 	@Override
 	public String toString() {
-		return  getName() +"\n";
+		return  getName() ;
 	}
 	
 }
